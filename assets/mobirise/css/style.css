@@ -1231,7 +1231,7 @@ html {
   z-index: 3;
 }
 .mbr-section__container--std-padding {
-  padding: 93px 0;
+  padding: 50px 0;
 }
 .mbr-section__container--sm-padding {
   padding: 41px 0;
@@ -1683,7 +1683,7 @@ html {
   }
 }
 .mbr-header {
-  margin-top: -20px;
+  margin-top: -10px;
   padding: 0;
   position: relative;
   text-align: left;
