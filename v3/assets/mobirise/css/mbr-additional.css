@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
+
+
+
+#header1-1 P {
+  text-align: left;
+  font-family: 'PT Sans', sans-serif;
+  color: #475577;
+}
+#header1-1 H1 {
+  font-family: 'PT Sans Narrow', sans-serif;
+  text-align: left;
+  color: #b8312f;
+}
+#header1-1 .btn {
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 14px;
+}
